@@ -126,8 +126,8 @@ export default function Supervision() {
                 <p className="text-gray-600 leading-relaxed mb-6">
                   Her expertise spans the full spectrum of what it takes to succeed as a clinician: from complex case management and ethical practice to insurance credentialing, EHR systems, and building a sustainable caseload.
                 </p>
-                <div className="flex flex-wrap gap-2 mb-6">
-                  {["NASW-NJ Clinical Supervisor Certified", "LCSW Licensed NJ", "LCADC Licensed NJ", "Private Practice Since 2016", "12+ Years Community Mental Health"].map((c) => (
+                  <div className="flex flex-wrap gap-2 mb-6">
+                  {["NASW-NJ Clinical Supervisor Certified", "LCSW Licensed NJ", "LCADC Licensed NJ", "PMH-C — Postpartum Support International", "Private Practice Since 2016", "12+ Years Community Mental Health"].map((c) => (
                     <span key={c} className="credential-pill">{c}</span>
                   ))}
                 </div>

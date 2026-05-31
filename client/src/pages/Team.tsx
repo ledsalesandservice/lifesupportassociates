@@ -25,16 +25,16 @@ function useScrollReveal() {
 const therapists = [
   {
     name: "Brandy Brown-Weikel",
-    creds: ["LCSW", "LCADC", "ACSW"],
-    role: "Founder & Clinical Director",
+    creds: ["LCSW", "LCADC", "PMH-C", "ACSW"],
+    role: "Founder, Clinical Director & Perinatal Mental Health Specialist",
     img: "/manus-storage/therapist1_d6cca8a8.jpg",
     states: ["New Jersey"],
     ageRange: "Adults 18+",
     modalities: ["Gottman Couples Therapy (Level 3)", "Brainspotting (Phase 1)", "TF-CBT", "Strengths-Based Therapy"],
-    specialties: ["Individual Therapy", "Couples & Family Therapy", "Clinical Supervision", "Private Practice Consultation"],
+    specialties: ["Individual Therapy", "Couples & Family Therapy", "Perinatal Mental Health", "Clinical Supervision", "Private Practice Consultation"],
     education: "Master of Social Work + Certificate in Gerontology, Rutgers University",
-    certifications: ["NASW-NJ Clinical Supervisor Certification", "State Licensed Drug & Alcohol Counselor (LCADC)"],
-    bio: "Brandy has spent over a decade working as an inpatient and outpatient mental health therapist. She founded her private practice in 2016 and has grown it into Life Support Associates — a multi-therapist group practice. Brandy sees adults ages 18 and up for individual, couples, and family therapy. She also provides clinical supervision to those seeking clinical licensure in New Jersey and offers case consultation and private practice consultation services. Brandy has her Master's Degree in Social Work and Certificate in Gerontology from Rutgers University. She is a state licensed drug and alcohol counselor and holds her NASW-NJ Clinical Supervisor Certification. Brandy has completed Gottman Couples Therapy Level 3 training, Brainspotting Phase 1 training, and TF-CBT Training.",
+    certifications: ["NASW-NJ Clinical Supervisor Certification", "State Licensed Drug & Alcohol Counselor (LCADC)", "Perinatal Mental Health Certification (PMH-C) — Postpartum Support International"],
+    bio: "Brandy has spent over a decade working as an inpatient and outpatient mental health therapist. She founded her private practice in 2016 and has grown it into Life Support Associates — a multi-therapist group practice. Brandy sees adults ages 18 and up for individual, couples, and family therapy. She also provides clinical supervision to those seeking clinical licensure in New Jersey and offers case consultation and private practice consultation services. Brandy has her Master's Degree in Social Work and Certificate in Gerontology from Rutgers University. She holds her Perinatal Mental Health Certification (PMH-C) from Postpartum Support International (PSI), is a state licensed drug and alcohol counselor (LCADC), and holds her NASW-NJ Clinical Supervisor Certification. Brandy has completed Gottman Couples Therapy Level 3 training, Brainspotting Phase 1 training, and TF-CBT Training.",
     featured: true,
   },
   {

@@ -26,7 +26,7 @@ const conditions = [
 ];
 
 const teamPreview = [
-  { name: "Brandy Brown-Weikel", creds: "LCSW, LCADC, ACSW", role: "Founder & Clinical Director", img: THERAPIST_BRANDY },
+  { name: "Brandy Brown-Weikel", creds: "LCSW, LCADC, PMH-C, ACSW", role: "Founder, Clinical Director & Perinatal Mental Health Specialist", img: THERAPIST_BRANDY },
   { name: "Kelly Murphy", creds: "MSW, LCSW", role: "Licensed Clinical Social Worker", img: THERAPIST_KELLY },
   { name: "Melisa Walker", creds: "MSW, LCSW", role: "Licensed Clinical Social Worker", img: THERAPIST_MELISA },
   { name: "Allison Lant", creds: "MSW, LCSW, PMH-C", role: "Perinatal Mental Health Specialist", img: THERAPIST_ALLISON },

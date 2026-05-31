@@ -60,9 +60,9 @@ const services = [
     icon: Baby,
     title: "Perinatal Mental Health",
     subtitle: "Specialized support for pregnancy and postpartum",
-    desc: "Perinatal mental health encompasses the emotional and psychological wellbeing of individuals during pregnancy and the postpartum period. Our PMH-C certified therapist specializes in perinatal mood disorders, postpartum depression and anxiety, pregnancy and infant loss, and the unique challenges of the transition to parenthood.",
+    desc: "Perinatal mental health encompasses the emotional and psychological wellbeing of individuals during pregnancy and the postpartum period. Life Support Associates has two PMH-C certified therapists (certified by Postpartum Support International) who specialize in perinatal mood disorders, postpartum depression and anxiety, pregnancy and infant loss, and the unique challenges of the transition to parenthood.",
     conditions: ["Postpartum Depression", "Postpartum Anxiety", "Prenatal Depression & Anxiety", "Pregnancy & Infant Loss", "Birth Trauma", "Perinatal OCD"],
-    modalities: ["Perinatal Mental Health Certification (PMH-C)", "Mindfulness-Based Therapy", "Self-Compassion Focused Therapy", "Brainspotting"],
+    modalities: ["Perinatal Mental Health Certification (PMH-C) — PSI", "Brainspotting", "Mindfulness-Based Therapy", "Self-Compassion Focused Therapy", "TF-CBT", "Gottman Method"],
     ageRange: "Adults",
   },
   {
