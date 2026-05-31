@@ -10,6 +10,7 @@ import Team from "./pages/Team";
 import Services from "./pages/Services";
 import Supervision from "./pages/Supervision";
 import Contact from "./pages/Contact";
+import PerinatalMentalHealth from "./pages/PerinatalMentalHealth";
 
 function Router() {
   return (
@@ -20,6 +21,7 @@ function Router() {
       <Route path="/services" component={Services} />
       <Route path="/supervision-consultation" component={Supervision} />
       <Route path="/contact" component={Contact} />
+      <Route path="/perinatal-mental-health" component={PerinatalMentalHealth} />
       <Route path="/404" component={NotFound} />
       <Route component={NotFound} />
     </Switch>

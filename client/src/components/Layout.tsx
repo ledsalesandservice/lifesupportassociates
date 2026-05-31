@@ -11,6 +11,7 @@ const navLinks = [
   { href: "/about", label: "About Us" },
   { href: "/team", label: "Our Team" },
   { href: "/services", label: "Services" },
+  { href: "/perinatal-mental-health", label: "Perinatal Mental Health" },
   { href: "/supervision-consultation", label: "Supervision & Consultation" },
   { href: "/contact", label: "Contact" },
 ];
@@ -168,6 +169,14 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                   </li>
                 ))}
               </ul>
+              <div className="mt-5 pt-4 border-t border-white/10">
+                <p className="text-xs text-white/40 uppercase tracking-widest mb-2">Specialist Services</p>
+                <ul className="space-y-1.5">
+                  <li><Link href="/perinatal-mental-health" className="text-xs text-amber/80 hover:text-amber transition-colors">Perinatal Mental Health (PMH-C)</Link></li>
+                  <li><Link href="/services#substance-abuse" className="text-xs text-white/50 hover:text-white/80 transition-colors">Substance Abuse Counseling (LCADC)</Link></li>
+                  <li><Link href="/services#trauma-therapy" className="text-xs text-white/50 hover:text-white/80 transition-colors">Trauma Therapy &amp; Brainspotting</Link></li>
+                </ul>
+              </div>
             </div>
 
             {/* Contact */}
