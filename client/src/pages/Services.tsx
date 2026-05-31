@@ -182,6 +182,38 @@ export default function Services() {
                     {/* Right: Details */}
                     <div className="lg:col-span-2 p-8">
                       <p className="text-gray-600 leading-relaxed mb-6">{service.desc}</p>
+                      {service.id === "perinatal-mental-health" && (
+                        <div className="flex items-center gap-4 mb-6 p-4 rounded-xl border border-gray-100 bg-gray-50">
+                          <a
+                            href="https://www.postpartum.net"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="flex-shrink-0 hover:opacity-75 transition-opacity"
+                            aria-label="Visit Postpartum Support International website"
+                          >
+                            <img
+                              src="/manus-storage/psi-logo_9dbb0abf.png"
+                              alt="Postpartum Support International (PSI) logo"
+                              className="h-10 w-auto"
+                              width="120"
+                              height="40"
+                            />
+                          </a>
+                          <p className="text-xs text-gray-500 leading-relaxed">
+                            Our PMH-C certified therapists are trained through{" "}
+                            <a
+                              href="https://www.postpartum.net"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="font-semibold underline underline-offset-2 hover:no-underline transition-all"
+                              style={{ color: "var(--brand-navy)" }}
+                            >
+                              Postpartum Support International (PSI)
+                            </a>
+                            {" "}— the world’s leading perinatal mental health organisation. Visit their site for additional resources, a helpline, and a provider directory.
+                          </p>
+                        </div>
+                      )}
 
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                         <div>
