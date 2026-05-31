@@ -11,10 +11,10 @@ const HERO_BG = "https://d2xsxph8kpxj0f.cloudfront.net/310419663030082570/YXDQBi
 const SERVICES_BG = "https://d2xsxph8kpxj0f.cloudfront.net/310419663030082570/YXDQBiYxidMP8jBEBaVPBF/services-bg-new-VztTjfQzg7GyxDJEv4F7jU.webp";
 const ABOUT_BG = "https://d2xsxph8kpxj0f.cloudfront.net/310419663030082570/YXDQBiYxidMP8jBEBaVPBF/about-bg-new-NeKmxS8TYwuakgpjUSqvVY.webp";
 
-const THERAPIST_BRANDY = "/manus-storage/therapist1_d6cca8a8.jpg";
-const THERAPIST_KELLY = "/manus-storage/therapist2_e8f0bd5e.jpg";
-const THERAPIST_MELISA = "/manus-storage/therapist3_dea6f0d0.jpg";
-const THERAPIST_ALLISON = "/manus-storage/therapist4_c1e59711.jpg";
+const THERAPIST_BRANDY = "/images/therapist1.jpg";
+const THERAPIST_KELLY = "/images/therapist2.jpg";
+const THERAPIST_MELISA = "/images/therapist3.jpg";
+const THERAPIST_ALLISON = "/images/therapist4.jpg";
 
 const conditions = [
   { icon: Brain, label: "Depression", desc: "Evidence-based treatment for persistent low mood and hopelessness." },

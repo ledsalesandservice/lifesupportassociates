@@ -10,9 +10,9 @@ import Layout from "@/components/Layout";
 import { Baby, Heart, Phone, ArrowRight, CheckCircle2, ShieldCheck, MessageCircle } from "lucide-react";
 
 const PERINATAL_HERO = "https://d2xsxph8kpxj0f.cloudfront.net/310419663030082570/YXDQBiYxidMP8jBEBaVPBF/perinatal-hero-626Lh2RKJPY3juZJsvKErz.webp";
-const PSI_LOGO = "/manus-storage/psi-logo_9dbb0abf.png";
-const BRANDY_IMG = "/manus-storage/therapist1_d6cca8a8.jpg";
-const ALLISON_IMG = "/manus-storage/therapist4_c1e59711.jpg";
+const PSI_LOGO = "/images/psi-logo.png";
+const BRANDY_IMG = "/images/therapist1.jpg";
+const ALLISON_IMG = "/images/therapist4.jpg";
 
 function useScrollReveal() {
   const ref = useRef<HTMLElement>(null);

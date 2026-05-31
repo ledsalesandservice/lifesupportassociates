@@ -48,7 +48,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             <Link href="/" className="flex items-center gap-3 group">
               <div className="w-10 h-10 rounded-full bg-navy flex items-center justify-center flex-shrink-0 group-hover:bg-navy-dark transition-colors duration-200">
                 <img
-                  src="/manus-storage/hero_d82d488f.jpg"
+                  src="/images/hero-bg-new.jpg"
                   alt="Life Support Associates anchor logo"
                   className="w-10 h-10 rounded-full object-cover"
                 />

@@ -8,7 +8,7 @@ import Layout from "@/components/Layout";
 import { ArrowRight, CheckCircle, GraduationCap, Briefcase, MessageSquare, Mail } from "lucide-react";
 
 const SUPERVISION_BG = "https://d2xsxph8kpxj0f.cloudfront.net/310419663030082570/YXDQBiYxidMP8jBEBaVPBF/supervision-bg-new-LixbimEvNTZaTPGjNn69KN.webp";
-const THERAPIST_BRANDY = "/manus-storage/therapist1_d6cca8a8.jpg";
+const THERAPIST_BRANDY = "/images/therapist1.jpg";
 
 function useScrollReveal() {
   const ref = useRef<HTMLElement>(null);

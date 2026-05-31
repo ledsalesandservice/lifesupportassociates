@@ -27,7 +27,7 @@ const therapists = [
     name: "Brandy Brown-Weikel",
     creds: ["LCSW", "LCADC", "PMH-C", "ACSW"],
     role: "Founder, Clinical Director & Perinatal Mental Health Specialist",
-    img: "/manus-storage/therapist1_d6cca8a8.jpg",
+    img: "/images/therapist1.jpg",
     states: ["New Jersey"],
     ageRange: "Adults 18+",
     modalities: ["Gottman Couples Therapy (Level 3)", "Brainspotting (Phase 1)", "TF-CBT", "Strengths-Based Therapy"],
@@ -41,7 +41,7 @@ const therapists = [
     name: "Kelly Murphy",
     creds: ["MSW", "LCSW"],
     role: "Licensed Clinical Social Worker",
-    img: "/manus-storage/therapist2_e8f0bd5e.jpg",
+    img: "/images/therapist2.jpg",
     states: ["New Jersey", "Delaware"],
     ageRange: "Ages 17+",
     modalities: ["Strengths-Based Therapy", "Client-Centered Therapy", "Cognitive Behavioral Therapy"],
@@ -55,7 +55,7 @@ const therapists = [
     name: "Melisa Walker",
     creds: ["MSW", "LCSW"],
     role: "Licensed Clinical Social Worker",
-    img: "/manus-storage/therapist3_dea6f0d0.jpg",
+    img: "/images/therapist3.jpg",
     states: ["New Jersey"],
     ageRange: "Ages 8 to Adult",
     modalities: ["Individualized Treatment Approach", "Strengths-Based Therapy", "Family Systems Therapy"],
@@ -69,7 +69,7 @@ const therapists = [
     name: "Allison Lant",
     creds: ["MSW", "LCSW", "PMH-C"],
     role: "Perinatal Mental Health Specialist",
-    img: "/manus-storage/therapist4_c1e59711.jpg",
+    img: "/images/therapist4.jpg",
     states: ["New Jersey"],
     ageRange: "Adults",
     modalities: ["Brainspotting", "Mindfulness-Based Therapy", "Self-Compassion Focused Therapy", "Eclectic Modalities"],
@@ -278,7 +278,7 @@ export default function Team() {
                 aria-label="Postpartum Support International — opens in new tab"
               >
                 <img
-                  src="/manus-storage/psi-logo_9dbb0abf.png"
+                  src="/images/psi-logo.png"
                   alt="Postpartum Support International (PSI) member logo"
                   className="w-48 h-auto"
                   width="192"

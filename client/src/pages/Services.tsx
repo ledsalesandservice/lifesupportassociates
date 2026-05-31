@@ -192,7 +192,7 @@ export default function Services() {
                             aria-label="Visit Postpartum Support International website"
                           >
                             <img
-                              src="/manus-storage/psi-logo_9dbb0abf.png"
+                              src="/images/psi-logo.png"
                               alt="Postpartum Support International (PSI) logo"
                               className="h-10 w-auto"
                               width="120"
@@ -277,7 +277,7 @@ export default function Services() {
                 aria-label="Postpartum Support International — opens in new tab"
               >
                 <img
-                  src="/manus-storage/psi-logo_9dbb0abf.png"
+                  src="/images/psi-logo.png"
                   alt="Postpartum Support International (PSI) member logo"
                   className="w-48 h-auto"
                   width="192"
