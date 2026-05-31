@@ -233,6 +233,45 @@ export default function Services() {
           </div>
         </section>
 
+        {/* ── PSI BADGE SECTION ── */}
+        <section className="py-14 border-t border-gray-100 bg-white">
+          <div className="container">
+            <div className="flex flex-col md:flex-row items-center gap-8 md:gap-14 max-w-3xl mx-auto fade-in-up">
+              <a
+                href="https://www.postpartum.net"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex-shrink-0 hover:opacity-80 transition-opacity duration-200"
+                aria-label="Postpartum Support International — opens in new tab"
+              >
+                <img
+                  src="/manus-storage/psi-logo_9dbb0abf.png"
+                  alt="Postpartum Support International (PSI) member logo"
+                  className="w-48 h-auto"
+                  width="192"
+                  height="88"
+                />
+              </a>
+              <div>
+                <p className="text-xs font-semibold uppercase tracking-widest mb-2" style={{ color: "var(--brand-amber)" }}>Perinatal Mental Health Specialists</p>
+                <h3 className="font-display text-navy text-xl mb-2">PMH-C Certified by Postpartum Support International</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">
+                  Our perinatal mental health services are delivered by two therapists holding the <strong>Perinatal Mental Health Certification (PMH-C)</strong> from Postpartum Support International — the leading authority in perinatal mental health training. This certification ensures you receive evidence-based, specialist care during one of life’s most significant transitions.
+                </p>
+                <a
+                  href="https://www.postpartum.net"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 text-xs font-semibold mt-3 transition-colors hover:underline"
+                  style={{ color: "var(--brand-navy)" }}
+                >
+                  Learn more about PSI <ArrowRight size={12} />
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* ── CTA ── */}
         <section
           className="py-16 text-center"

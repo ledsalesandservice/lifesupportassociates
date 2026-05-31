@@ -266,6 +266,36 @@ export default function Team() {
           </div>
         </section>
 
+        {/* ── PSI BADGE SECTION ── */}
+        <section className="py-14 border-t border-gray-100" style={{ backgroundColor: "#fff" }}>
+          <div className="container">
+            <div className="flex flex-col md:flex-row items-center gap-8 md:gap-14 max-w-3xl mx-auto">
+              <a
+                href="https://www.postpartum.net"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex-shrink-0 hover:opacity-80 transition-opacity duration-200"
+                aria-label="Postpartum Support International — opens in new tab"
+              >
+                <img
+                  src="/manus-storage/psi-logo_9dbb0abf.png"
+                  alt="Postpartum Support International (PSI) member logo"
+                  className="w-48 h-auto"
+                  width="192"
+                  height="88"
+                />
+              </a>
+              <div>
+                <p className="text-xs font-semibold uppercase tracking-widest mb-2" style={{ color: "var(--brand-amber)" }}>Certified by Postpartum Support International</p>
+                <h3 className="font-display text-navy text-xl mb-2">PMH-C Perinatal Mental Health Certification</h3>
+                <p className="text-gray-600 text-sm leading-relaxed">
+                  Two of our therapists — Brandy Brown-Weikel and Allison Lant — hold the <strong>Perinatal Mental Health Certification (PMH-C)</strong> awarded by Postpartum Support International (PSI), the gold standard in perinatal mental health training. This certification demonstrates advanced competency in supporting individuals through pregnancy, postpartum, and infant loss.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* ── CTA ── */}
         <section
           className="py-16 text-center"
