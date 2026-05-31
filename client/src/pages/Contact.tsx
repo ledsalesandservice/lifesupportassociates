@@ -285,7 +285,7 @@ export default function Contact() {
               {[
                 {
                   q: "Do you accept insurance?",
-                  a: "Kelly Murphy is currently in-network with most commercial Blue Cross Blue Shield plans. Please contact us to discuss insurance coverage, out-of-pocket fees, and sliding scale options with individual therapists.",
+                  a: "We are in-network with most commercial Blue Cross Blue Shield plans and accept out-of-network benefits from other insurance providers. Please contact us to discuss your specific coverage, out-of-pocket fees, and any sliding scale options.",
                 },
                 {
                   q: "Do you offer telehealth therapy?",

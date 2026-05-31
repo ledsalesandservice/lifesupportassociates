@@ -47,8 +47,8 @@ const therapists = [
     modalities: ["Strengths-Based Therapy", "Client-Centered Therapy", "Cognitive Behavioral Therapy"],
     specialties: ["Individual Therapy", "Acute Psychiatric Support", "Telehealth"],
     education: "Master of Social Work (Summa Cum Laude), Rutgers University, 2006",
-    certifications: ["In-network: Most Commercial Blue Cross Blue Shield Plans"],
-    bio: "Kelly is a Licensed Clinical Social Worker in New Jersey and Delaware. She worked in an acute psychiatric unit for 18 years and currently sees clients on an outpatient basis. Kelly graduated Summa Cum Laude with her Master's Degree in 2006 from Rutgers University. She utilizes a variety of treatment modalities and works from a strengths-based, client-centered perspective. She sees clients ages 17 and up and is currently in-network with most commercial Blue Cross Blue Shield plans. Kelly sees clients via telehealth and has evening availability.",
+    certifications: ["In-network: Most Commercial Blue Cross Blue Shield Plans", "Out-of-network benefits accepted"],
+    bio: "Kelly is a Licensed Clinical Social Worker in New Jersey and Delaware. She worked in an acute psychiatric unit for 18 years and currently sees clients on an outpatient basis. Kelly graduated Summa Cum Laude with her Master's Degree in 2006 from Rutgers University. She utilizes a variety of treatment modalities and works from a strengths-based, client-centered perspective. She sees clients ages 17 and up. Kelly sees clients via telehealth and has evening availability.",
     featured: false,
   },
   {

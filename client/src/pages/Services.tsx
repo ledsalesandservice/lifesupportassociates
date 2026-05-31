@@ -251,7 +251,7 @@ export default function Services() {
             <div className="max-w-2xl mx-auto text-center fade-in-up">
               <h2 className="font-display text-navy text-2xl mb-3">Insurance & Fees</h2>
               <p className="text-gray-600 text-sm leading-relaxed mb-4">
-                Kelly Murphy is currently in-network with most commercial Blue Cross Blue Shield plans. Please contact us to discuss insurance coverage, out-of-pocket fees, and sliding scale options with individual therapists.
+                We are in-network with most commercial Blue Cross Blue Shield plans and accept out-of-network benefits from other insurance providers. Please contact us to discuss your specific coverage, out-of-pocket fees, and any sliding scale options.
               </p>
               <a
                 href="mailto:brandy@lifesupportassociates.net"
